@@ -1,0 +1,22 @@
+{
+  "name": "genkit",
+  "version": "1.0.0",
+  "description": "SOlidity Code Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/13x54n/GenKit.git"
+  },
+  "author": "Lexy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/13x54n/GenKit/issues"
+  },
+  "homepage": "https://github.com/13x54n/GenKit#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
